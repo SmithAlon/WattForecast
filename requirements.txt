@@ -1,0 +1,24 @@
+# Dependencias del Backend - Energy Advisor
+
+# Framework Web
+Flask==3.0.0
+flask-cors==4.0.0
+
+# Procesamiento de Datos
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualización
+matplotlib==3.8.2
+
+# API Cliente
+requests==2.31.0
+
+# Inteligencia Artificial
+google-generativeai==0.3.2
+
+# Variables de entorno (opcional pero recomendado)
+python-dotenv==1.0.0
+
+# Utilidades
+Pillow==10.1.0  # Para procesamiento de imágenes si es necesario
